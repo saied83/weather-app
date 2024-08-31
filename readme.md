@@ -14,7 +14,6 @@ A simple weather app built with HTML, CSS, and vanilla JavaScript.
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -42,6 +41,6 @@ This weather app provides current weather conditions and forecasts for locations
 
 ---
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`
+1. Clone the repository: `git clone https://github.com/saied83/weather-app.git`
 2. Open the project in your preferred code editor
 3. Run the app by opening `index.html` in your web browser
